@@ -1,5 +1,5 @@
 {
-  "name": "ExpressBackendKit Boilerplate",
+  "name": "express-backend-kit",
   "version": "1.0.0",
   "main": "src/server.ts",
   "scripts": {
