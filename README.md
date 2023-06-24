@@ -2,7 +2,7 @@
 
 ExpressBackendKit Boilerplate is a comprehensive starter kit for building powerful backend applications with Express and TypeScript.. It provides a solid foundation and essential configurations, enabling you to quickly jumpstart your backend development projects.
 
-Reminder -ExpressBackendKit Boilerplate provides a preconfigured setup with essential features to kickstart your Express.js applications.
+Reminder -It's provides a preconfigured setup with essential features to kickstart your Express.js applications.
 
 
 ## Features
