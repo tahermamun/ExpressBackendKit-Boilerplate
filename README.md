@@ -25,7 +25,7 @@ Follow these steps to get started with ExpressBackendKit Boilerplate:
 
 1. **Clone the Repository**:
    ```shell
-   git clone https://github.com/your-username/express-backend-kit.git
+   git clone https://github.com/tahermamun/ExpressBackendKit-Boilerplate.git
    ```
 2. **Install the dependencies**:
    ```shell
